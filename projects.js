@@ -1,0 +1,9 @@
+module.exports.multiselect={
+	jsIndex:"multiselect/src/js/main.js",
+    jsSrc:"multiselect/src/js/**/*.js",
+    jsDest:"multiselect/dist/js",
+    htmlDir:"multiselect/",
+    htmls:"multiselect/*.html",
+    cssSrc:"multiselect/src/css/**/*.less",
+    cssDest:"multiselect/dist/css"  
+};
